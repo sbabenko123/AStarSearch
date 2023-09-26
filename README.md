@@ -6,6 +6,7 @@ The new 8-puzzle has 8 tiles as usual, but each tile may move Up, Up-Right, Righ
 
 Please use the A * search method to find a solution, and show the generated search tree with marked expansion order numbers and costs along with detailed major steps and relevant explanations clearly.
 
+![initial to goal state example](problem.png)
 ---
 ### A* Search High-Level Overview
 
