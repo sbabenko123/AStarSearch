@@ -1,6 +1,6 @@
 # AStarSearch
 
-### Problem
+### Problem Statement
 
 The new 8-puzzle has 8 tiles as usual, but each tile may move Up, Up-Right, Right, Down-Right, Down, Down-Left, Left and Up-Left. The cost of a regular move (Up, Down, Left, or Right) is 1, and the cost of a diagonal move (Up-Right, Down-Right, Down-Left, and Up-Left) is 1.4 (approximately =1.414).
 
