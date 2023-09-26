@@ -103,3 +103,6 @@ Misplaced Values-------------
 [1, 1]
 gValue=1.0, hValue=0.0, fValue=1.0
 ```
+
+
+![mermaid flowchart of decision tree](mermaid-flowchart.png)
