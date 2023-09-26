@@ -1,4 +1,4 @@
-# AStarSearch
+# A* Search
 
 ### Problem Statement
 
@@ -8,7 +8,7 @@ Please use the A * search method to find a solution, and show the generated sear
 
 ![initial to goal state example](problem.png)
 ---
-### A* Search High-Level Overview
+### High-Level Overview
 
 The objective of the A* search algorithm is to find a path from an initial state to a goal state that minimizes the cost function $f(s)$, where 
 
